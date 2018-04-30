@@ -5,7 +5,7 @@ API
 Classes
 -------
 
-.. currentmodule:: shablona
+.. currentmodule:: slicepy
 
 .. autosummary::
    :template: class.rst
